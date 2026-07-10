@@ -25,12 +25,12 @@ const config = {
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
     VERSION: '3.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱɪɢᴍᴀ ᴍᴅ*',
+    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN-MD*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
     ANTIEDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
-    STICKER_NAME: 'SIGMA-MD',
+    STICKER_NAME: 'KAMRAN-MD',
     ANTI_LINK: 'true',
     WELCOME: 'false',
     GOODBYE: 'false',
@@ -49,23 +49,23 @@ const config = {
     LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like status
     
     // Bot Identity
-    BOT_NAME: 'SIGMA-MD',
-    OWNER_NAME: 'SIGMA-MD',
-    OWNER_NUMBER: '923103448168',
-    DEV: '923448149931',
+    BOT_NAME: 'KAMRAN-MD',
+    OWNER_NAME: 'KAMRAN-MD',
+    OWNER_NUMBER: '923195068309',
+    DEV: '923195068309',
     IK_IMAGE_PATH: './lib/sigma.jpg',
-    BOT_IMAGE: 'https://files.catbox.moe/lcs2xd.jpg',
+    BOT_IMAGE: 'https://files.catbox.moe/yaw0ai.jpg',
     
     // Newsletter Configuration
-    NEWSLETTER_JID: '120363354023106228@newsletter',
+    NEWSLETTER_JID: '120363418144382782@newsletter',
     NEWSLETTER_MESSAGE_ID: '428',  
     
     // System Configuration
     MAX_RETRIES: 3,
     OTP_EXPIRY: 300000,
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O',
     BANNED: [],
-    SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923448149931@s.whatsapp.net", "923427582273@s.whatsapp.net", "923216330451@s.whatsapp.net", "923103448168@s.whatsapp.net"],
+    SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
@@ -103,15 +103,15 @@ const config = {
         
         // Bot Identity
         VERSION: '3.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: 'SIGMA-MD',
+        OWNER_NAME: 'KAMRAN-MD',
         OWNER_NUMBER: '923103448168',
         DEV: '923448149931',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱɪɢᴍᴀ ᴍᴅ*',
-        STICKER_NAME: 'SIGMA-MD.',
+        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN MD*',
+        STICKER_NAME: 'KAMRAN-MD.',
         MODE: 'public',
         PREFIX: '.',
-        BOT_NAME: 'SIGMA-MD',
-        BOT_IMAGE: 'https://files.catbox.moe/lcs2xd.jpg',
+        BOT_NAME: 'KAMRAN-MD',
+        BOT_IMAGE: 'https://files.catbox.moe/yaw0ai.jpg',
         
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
@@ -119,7 +119,7 @@ const config = {
         
         // Lists
         BANNED: [],
-        SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923448149931@s.whatsapp.net", "923427582273@s.whatsapp.net", "923216330451@s.whatsapp.net", "923103448168@s.whatsapp.net"]
+        SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923195068309@s.whatsapp.net", "923196891871@s.whatsapp.net", "923036338918@s.whatsapp.net", "923110741871@s.whatsapp.net"]
     }
 };
 

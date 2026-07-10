@@ -53,7 +53,7 @@ const config = {
     OWNER_NAME: 'KAMRAN-MD',
     OWNER_NUMBER: '923195068309',
     DEV: '923195068309',
-    IK_IMAGE_PATH: './lib/sigma.jpg',
+    IK_IMAGE_PATH: './lib/jawadmd.jpg',
     BOT_IMAGE: 'https://files.catbox.moe/yaw0ai.jpg',
     
     // Newsletter Configuration

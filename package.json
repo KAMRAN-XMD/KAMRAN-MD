@@ -1,14 +1,14 @@
 {
-  "name": "JAWAD-MD",
+  "name": "KAMRAN-MD",
   "version": "1.4.0",
   "type": "module",
-  "description": "Jawad WhatsApp Bot",
+  "description": "Kamran WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node --expose-gc index.js",
-    "start:pm2": "pm2 start index.js --node-args='--expose-gc' --deep-monitoring --name JAWAD-MD",
-    "stop": "pm2 stop JAWAD-MD",
-    "restart": "pm2 restart JAWAD-MD"
+    "start:pm2": "pm2 start index.js --node-args='--expose-gc' --deep-monitoring --name KAMRAN-MD",
+    "stop": "pm2 stop KAMRAN-MD",
+    "restart": "pm2 restart KAMRAN-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",

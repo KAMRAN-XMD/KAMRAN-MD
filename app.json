@@ -1,8 +1,8 @@
 {
-  "name": "SIGMA-MD",
+  "name": "KAMRAN-MD",
   "description": "Javascript WhatsApp bot made by SIGMATech",
-  "logo": "https://files.catbox.moe/0eylom.jpg",
-  "keywords": ["SIGMA-BOT"],
+  "logo": "https://files.catbox.moe/yaw0ai.jpg",
+  "keywords": ["KAMRAN-BOT"],
   "success_url": "/",
   "stack": "container",
   
@@ -14,7 +14,7 @@
     "DB_NAME": {
       "description": "Database name for MongoDB (default: jawadmd-x10)",
       "required": false,
-      "value": "jawadmd-x10"
+      "value": "kamran-x10"
     }
   },
 

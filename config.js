@@ -104,8 +104,8 @@ const config = {
         // Bot Identity
         VERSION: '3.0.0 Bᴇᴛᴀ',
         OWNER_NAME: 'KAMRAN-MD',
-        OWNER_NUMBER: '923103448168',
-        DEV: '923448149931',
+        OWNER_NUMBER: '923196891871',
+        DEV: '923195058309',
         DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN MD*',
         STICKER_NAME: 'KAMRAN-MD.',
         MODE: 'public',

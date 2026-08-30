@@ -54,7 +54,7 @@ const config = {
     OWNER_NUMBER: '923195068309',
     DEV: '923195068309',
     IK_IMAGE_PATH: './lib/jawadmd.jpg',
-    BOT_IMAGE: 'https://files.catbox.moe/yaw0ai.jpg',
+    BOT_IMAGE: 'https://i.ibb.co/RTWD9M32/jawadmd.jpg',
     
     // Newsletter Configuration
     NEWSLETTER_JID: '120363418144382782@newsletter',
@@ -111,7 +111,7 @@ const config = {
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: 'KAMRAN-MD',
-        BOT_IMAGE: 'https://files.catbox.moe/yaw0ai.jpg',
+        BOT_IMAGE: 'https://i.ibb.co/RTWD9M32/jawadmd.jpg',
         
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],

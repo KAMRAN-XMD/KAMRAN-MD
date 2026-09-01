@@ -54,7 +54,7 @@ const config = {
     OWNER_NAME: 'KAMRAN-MD',
     OWNER_NUMBER: '923195068309',
     DEV: '923195068309',
-    IK_IMAGE_PATH: './lib/jawadmd.jpg',
+    IK_IMAGE_PATH: './lib/kamranmd.jpg',
     BOT_IMAGE: 'https://i.ibb.co/RTWD9M32/jawadmd.jpg',
     
     // Newsletter Configuration

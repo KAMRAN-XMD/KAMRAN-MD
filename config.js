@@ -4,7 +4,7 @@ dotenv.config();
 
 const config = {
     // MongoDB Configuration (only this is from process.env)
-    MONGODB_URL: process.env.MONGODB_URL || 'kamranmd1:kamranmd1@cluster0.cismpk8.mongodb.net/?appName=Cluster0',
+    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://drkamran_db_user:7e2LYGpbF0CLkuqe@cluster0.zcim3sa.mongodb.net/?appName=Cluster0',
     
     // Fixed Database Name
     DB_NAME: process.env.DB_NAME || '1902',
@@ -19,12 +19,12 @@ const config = {
     // Bot Configuration
     AUTO_VIEW_STATUS: 'true',
     AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status messages
-    MENTION_REPLY: 'false',
+    MENTION_REPLY: 'true',
     AUTO_RECORDING: 'false',
     AUTO_REACT: 'false',
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
-    VERSION: '3.0.0 Bᴇᴛᴀ',
+    VERSION: '5.0.0 Bᴇᴛᴀ',
     DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN-MD*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
@@ -65,14 +65,14 @@ const config = {
     OTP_EXPIRY: 300000,
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O',
     BANNED: [],
-    SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
+    SUDO: ["2744576493407@lid", "633341413102@lid", "2811233040696@lid", "1297129679592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
         // Status & View Settings
         AUTO_VIEW_STATUS: 'true',
         AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status (disabled by default)
-        MENTION_REPLY: 'false',
+        MENTION_REPLY: 'true',
         AUTO_STATUS_SEEN: 'true',
         READ_MESSAGE: 'false',
         

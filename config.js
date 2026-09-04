@@ -28,7 +28,7 @@ const config = {
     DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN-MD*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
-    ANTI_STATUS: 'true',
+    ANTI_STATUS: 'warn',
     ANTIEDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
     STICKER_NAME: 'KAMRAN-MD',
@@ -86,7 +86,7 @@ const config = {
         
         // Anti Features
         ANTI_DELETE: 'false',
-        ANTI_STATUS: 'true',
+        ANTI_STATUS: 'warn',
         ANTI_DELETE_PATH: 'inbox',
         ANTI_EDIT: 'false',
         ANTIEDIT_PATH: 'inbox',

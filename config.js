@@ -4,10 +4,10 @@ dotenv.config();
 
 const config = {
     // MongoDB Configuration (only this is from process.env)
-    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://drkamran_db_user:7e2LYGpbF0CLkuqe@cluster0.zcim3sa.mongodb.net/?appName=Cluster0',
+    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://drkamranislamabad_db_user:z2PKHv440McbIWiM@cluster0.9rc7zep.mongodb.net',
     
     // Fixed Database Name
-    DB_NAME: process.env.DB_NAME || '1902',
+    DB_NAME: process.env.DB_NAME || 'drkamranx400',
     
     // Collections Configuration
     COLLECTIONS: {

@@ -19,7 +19,7 @@ const config = {
     // Bot Configuration
     AUTO_VIEW_STATUS: 'true',
     AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status messages
-    MENTION_REPLY: 'true',
+    MENTION_REPLY: 'false',
     AUTO_RECORDING: 'false',
     AUTO_REACT: 'false',
     AUTO_TYPING: 'false',
@@ -73,7 +73,7 @@ const config = {
         // Status & View Settings
         AUTO_VIEW_STATUS: 'true',
         AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status (disabled by default)
-        MENTION_REPLY: 'true',
+        MENTION_REPLY: 'false',
         AUTO_STATUS_SEEN: 'true',
         READ_MESSAGE: 'false',
         

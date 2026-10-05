@@ -48,6 +48,6 @@
     "ws": "^8.17.1",
     "yargs": "^17.6.0",
     "yargs-parser": "^21.1.1",
-    "yt-search": "latest"
+    "yt-search": "2.13.1"
   }
 }

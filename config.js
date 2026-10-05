@@ -55,8 +55,8 @@ const config = {
     OWNER_NAME: 'KAMRAN-MD',
     OWNER_NUMBER: '923036338918',
     DEV: '923219300532',
-    IK_IMAGE_PATH: './lib/jawadmd.jpg',
-    BOT_IMAGE: 'https://files.catbox.moe/skv7bu.jpg',
+    IK_IMAGE_PATH: './lib/kamranmd.jpg',
+    BOT_IMAGE: 'https://i.ibb.co/5XK9jqXN/a282000a6fec.jpg',
       
     // System Configuration
     MAX_RETRIES: 3,
@@ -106,7 +106,7 @@ const config = {
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: 'KAMRAN-MD',
-        BOT_IMAGE: 'https://files.catbox.moe/skv7bu.jpg',        
+        BOT_IMAGE: 'https://i.ibb.co/5XK9jqXN/a282000a6fec.jpg',        
         AUTO_LIKE_EMOJI: ['❤️', '🔥', '👑', '⭐', '💎'],        
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],

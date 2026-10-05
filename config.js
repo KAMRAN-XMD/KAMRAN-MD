@@ -18,18 +18,18 @@ const config = {
     
     // Bot Configuration
     AUTO_VIEW_STATUS: 'true',
+    ANTI_STATUS: 'false',
     AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status messages
     MENTION_REPLY: 'false',
     AUTO_RECORDING: 'false',
     AUTO_REACT: 'false',
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
-    VERSION: '5.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN-MD*',
+    VERSION: '3.0.0 Bᴇᴛᴀ',
+    DESCRIPTION: '*© POWERED BY KAMRAN-MD*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
-    ANTI_STATUS: 'warn',
-    ANTIEDIT_PATH: 'inbox',
+    ANTI_EDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
     STICKER_NAME: 'KAMRAN-MD',
     ANTI_LINK: 'true',
@@ -45,6 +45,7 @@ const config = {
     READ_MESSAGE: 'false',
     AUTO_STATUS_SEEN: 'true',
     OWNER_REACT: 'false',
+    AUTO_LIKE_EMOJI: ['❤️', '🔥', '👑', '⭐', '💎'],
     OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
     REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
     LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like status
@@ -52,26 +53,21 @@ const config = {
     // Bot Identity
     BOT_NAME: 'KAMRAN-MD',
     OWNER_NAME: 'KAMRAN-MD',
-    OWNER_NUMBER: '923195068309',
-    DEV: '923195068309',
-    IK_IMAGE_PATH: './lib/kamranmd.jpg',
-    BOT_IMAGE: 'https://i.ibb.co/RTWD9M32/jawadmd.jpg',
-    
-    // Newsletter Configuration
-    NEWSLETTER_JID: '120363418144382782@newsletter',
-    NEWSLETTER_MESSAGE_ID: '428',  
-    
+    OWNER_NUMBER: '923036338918',
+    DEV: '923219300532',
+    IK_IMAGE_PATH: './lib/jawadmd.jpg',
+    BOT_IMAGE: 'https://files.catbox.moe/skv7bu.jpg',
+      
     // System Configuration
     MAX_RETRIES: 3,
     OTP_EXPIRY: 300000,
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O',
-    BANNED: [],
-    SUDO: ["2744576493407@lid", "633341413102@lid", "2811233040696@lid", "1297129679592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
+    SUDO: [],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
         // Status & View Settings
         AUTO_VIEW_STATUS: 'true',
+        ANTI_STATUS: 'false',
         AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status (disabled by default)
         MENTION_REPLY: 'false',
         AUTO_STATUS_SEEN: 'true',
@@ -86,10 +82,7 @@ const config = {
         
         // Anti Features
         ANTI_DELETE: 'false',
-        ANTI_STATUS: 'warn',
         ANTI_DELETE_PATH: 'inbox',
-        ANTI_EDIT: 'false',
-        ANTIEDIT_PATH: 'inbox',
         ANTI_CALL: 'false',
         ANTI_LINK: 'true',
         
@@ -104,24 +97,22 @@ const config = {
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         
         // Bot Identity
-        VERSION: '3.0.0 Bᴇᴛᴀ',
+        VERSION: '7.0.0 Bᴇᴛᴀ',
         OWNER_NAME: 'KAMRAN-MD',
-        OWNER_NUMBER: '923196891871',
-        DEV: '923195058309',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN MD*',
-        STICKER_NAME: 'KAMRAN-MD.',
+        OWNER_NUMBER: '923036338918',
+        DEV: '923219300532',
+        DESCRIPTION: '*© POWERED BY KAMRAN-MD*',
+        STICKER_NAME: 'KAMRAN-MD',
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: 'KAMRAN-MD',
-        BOT_IMAGE: 'https://i.ibb.co/RTWD9M32/jawadmd.jpg',
-        
+        BOT_IMAGE: 'https://files.catbox.moe/skv7bu.jpg',        
+        AUTO_LIKE_EMOJI: ['❤️', '🔥', '👑', '⭐', '💎'],        
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
         LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like
         
-        // Lists
-        BANNED: [],
-        SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923195068309@s.whatsapp.net", "923196891871@s.whatsapp.net", "923036338918@s.whatsapp.net", "923110741871@s.whatsapp.net"]
+        SUDO: []
     }
 };
 

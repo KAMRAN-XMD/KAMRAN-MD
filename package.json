@@ -2,7 +2,7 @@
   "name": "KAMRAN-MD",
   "version": "1.4.0",
   "type": "module",
-  "description": "Kamran WhatsApp Bot",
+  "description": "JAWAD WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node --expose-gc index.js",
@@ -34,7 +34,7 @@
     "jsdom": "^22.1.0",
     "megajs": "^1.3.7",
     "moment-timezone": "^0.5.43",
-    "mongodb": "^7.2.0",
+    "mongodb": "^6.0.0",
     "node-fetch": "^2.6.1",
     "node-webpmux": "^3.2.1",
     "pino": "^8.15.0",
